@@ -109,6 +109,7 @@ main{
 .main{
     width: 80%;
 }
+
 /* failures section styles */
 .failure{
     display: flex;
